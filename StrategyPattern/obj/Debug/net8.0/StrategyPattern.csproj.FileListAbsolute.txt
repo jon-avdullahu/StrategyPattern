@@ -1,0 +1,14 @@
+C:\Users\Joni\Downloads\Te mentori\StrategyPattern\bin\Debug\net8.0\StrategyPattern.exe
+C:\Users\Joni\Downloads\Te mentori\StrategyPattern\bin\Debug\net8.0\StrategyPattern.deps.json
+C:\Users\Joni\Downloads\Te mentori\StrategyPattern\bin\Debug\net8.0\StrategyPattern.runtimeconfig.json
+C:\Users\Joni\Downloads\Te mentori\StrategyPattern\bin\Debug\net8.0\StrategyPattern.dll
+C:\Users\Joni\Downloads\Te mentori\StrategyPattern\bin\Debug\net8.0\StrategyPattern.pdb
+C:\Users\Joni\Downloads\Te mentori\StrategyPattern\obj\Debug\net8.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joni\Downloads\Te mentori\StrategyPattern\obj\Debug\net8.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\Joni\Downloads\Te mentori\StrategyPattern\obj\Debug\net8.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\Joni\Downloads\Te mentori\StrategyPattern\obj\Debug\net8.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Joni\Downloads\Te mentori\StrategyPattern\obj\Debug\net8.0\StrategyPattern.dll
+C:\Users\Joni\Downloads\Te mentori\StrategyPattern\obj\Debug\net8.0\refint\StrategyPattern.dll
+C:\Users\Joni\Downloads\Te mentori\StrategyPattern\obj\Debug\net8.0\StrategyPattern.pdb
+C:\Users\Joni\Downloads\Te mentori\StrategyPattern\obj\Debug\net8.0\StrategyPattern.genruntimeconfig.cache
+C:\Users\Joni\Downloads\Te mentori\StrategyPattern\obj\Debug\net8.0\ref\StrategyPattern.dll
